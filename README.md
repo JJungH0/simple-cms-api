@@ -1,10 +1,4 @@
 # CMS REST API
-**간단한 콘텐츠 관리 시스템(CMS) REST API 프로젝트입니다.
-회원 인증(Session 기반)과 콘텐츠 CRUD 기능을 제공합니다.**
---- 
-### API 문서
-- [Postman API 문서 바로가기](https://documenter.getpostman.com/view/49786142/2sBXihrYsz)
----
 ### 1. 프로젝트 실행 방법
 ```
 git clone https://github.com/JJungH0/simple-cms-api.git
@@ -14,6 +8,7 @@ cd simple-cms-api
 -   **또는 IntelliJ에서 실행**
 
 ### 2. API 테스트
+- [Postman API 문서 바로가기](https://documenter.getpostman.com/view/49786142/2sBXihrYsz)
 - **Postman을 이용하여 API 요청 테스트**
 - **IntelliJ의 ``http/request.http`` 파일을 통해 테스트 가능**
 
