@@ -50,10 +50,10 @@ GET http://localhost:8080/members/me
 POST http://localhost:8080/logout
 
 ### 전체 콘텐츠 조회
-GET http://localhost:8080/contents
+GET http://localhost:8080/contents?page=1&size=5
 
 ### 상세 콘텐츠 조회
-GET http://localhost:8080/contents/1
+GET http://localhost:8080/contents/11
 
 ### 콘텐츠 생성
 POST http://localhost:8080/contents
