@@ -58,7 +58,3 @@ cd simple-cms-api
 - 전역 예외 처리를 통해 일관된 에러 응답 구조 유지
 - 계층형 구조 (Controller - Service - Repository) 적용
 ---
-
-### 사용한 AI 도구 / 참고 자료
-- ChatGPT를 활용하여 API 설계 방향, Spring Security, JPA 및 인증 방식(Session 기반)에 대한 이해를 보완했습니다.
-- 개인 Notion에 정리해둔 내용을 참고하여 예외 처리 구조와 공통 응답 형식을 구성했습니다.
